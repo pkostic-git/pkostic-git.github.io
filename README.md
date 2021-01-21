@@ -1,1 +1,3 @@
-# pkostic-git.github.io
+# Github Pages Website
+
+Access via pkostic-git.github.io.
